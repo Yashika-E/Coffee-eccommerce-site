@@ -3,6 +3,7 @@ This project contains 3 main pages:
 - index.html (Home page)  -> style.css
 - about.html              -> about.css
 - our_coffee.html         -> our_coffee.css
+
 This is a simple, responsive coffee menu webpage created using HTML and CSS. The webpage displays various coffee products with images, prices, and an "Add Item" button. It also includes a navigation bar and a footer with social media links.
 
 ## Features
