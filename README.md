@@ -14,9 +14,6 @@ This is a simple, responsive coffee menu webpage created using HTML and CSS. The
 - Google Fonts
 - Font Awesome
   
-##How to Use
+## How to Use
 Clone the Repository:
-
-bash
-Copy code
 git clone https://github.com/yourusername/coffee-menu-webpage.git
