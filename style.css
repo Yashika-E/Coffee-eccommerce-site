@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, sans-serif;
+    background-image: url(image.png);
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.site_head{
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5em 0em;
+}
+header{
+    width: 100%;
+    background-color: rgba(134, 39, 39, 0.774);
+    color: #ffffff;
+}
+
+header nav{
+padding-left: 30%;
+
+} 
+
+header nav a{
+    
+text-decoration: none;
+    padding: 1em;
+    color: rgb(255, 255, 255);
+}
+.site_nav{
+    margin-top: 30px;
+    margin-left:450px;
+    font-size: 98%;
+    transition: background-color 0.3s ease;
+}
+
+.site_nav a:hover {
+    background-color: #764242;
+    }
+.material-symbols-outlined{
+    margin-top: 30px;
+    margin-right: 30px;
+  
+}
+
+
+.content{
+    font-family: Poppins;
+    font-size: 1em;
+    color: white;
+}
+
+.content h1{
+    padding-top: 2%;
+    font-size: 3em;
+}
+
+.content p{
+    font-size: 1em;
+    padding-top: 22%;
+    padding-bottom: 1%;
+}
+
+.scroll{
+    color: #ffffff;
+}
+
+footer{
+    color:#ffffff
+}

@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body {
+    font-family: Poppins, sans-serif;
+    
+    margin: 0;
+    padding: 0;
+    background-image: url(cof.png);
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }
+
+    .site_head{
+        display: flex;
+        justify-content: space-between;
+        padding: 0.5em 0em;
+
+    }
+
+    
+    header{
+        width: 100%;
+        background-color: rgba(134, 39, 39, 0.774);
+        color: #ffffff;
+        
+    }
+    header nav{
+        padding-left: 30%;
+        
+        } 
+        
+        header nav a{
+            
+        text-decoration: none;
+            padding: 1em;
+            color: rgb(255, 255, 255);
+        }
+        .site_nav{
+            margin-top: 30px;
+            margin-left:450px;
+            font-size: 98%;
+            transition: background-color 0.3s ease;
+        }
+        
+    
+
+    .site_nav a:hover {
+        background-color: #764242;
+        }
+    .material-symbols-outlined{
+        margin-top: 30px;
+        margin-right: 30px;
+      
+    }
+    .hover-section {
+        text-align: center;
+        background-color: #6c2f2f7e;
+        border: 1px solid #807979;
+        margin: 20px;
+        padding: 20px;
+        transition: background-color 0.3s, transform 0.3s;
+    }
+    
+    .hover-section:hover {
+        background-color: transparent;
+        transform: scale(1.05);
+    }
+
+    .content{
+        padding: 5%;
+        font-family: Poppins;
+        font-size: 1em;
+        color: white;
+    }
+    
+    
+footer {
+            
+    font-family: Poppins, Geneva, Tahoma, sans-serif;
+    padding-top: 6%;
+    color: #ffffff;
+        }
+   .google{
+    padding: 4px;
+   }
+   
